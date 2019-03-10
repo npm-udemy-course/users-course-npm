@@ -7,5 +7,6 @@ Seleccionamos el repositorio que queramos utilizar para añadir nuestra contribu
 
 Una vez que ya tengamos seleccionado un proyecto con el cual contribuir, nos dirigimos a la página de ese repositorio o proyecto y dale clic al ícono que aparece en la parte superior derecha que dice: **“Fork”**. A continuación puedes ver el icono en la siguiente imagen:
 
+![Fork image](https://raw.githubusercontent.com/npm-udemy-course/users-course-npm/master/fork-repository-01.png)
 
 **"Forkeando"** el proyecto a contribuir en GitHub.

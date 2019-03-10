@@ -13,6 +13,4 @@ Teniendo esa referencia, hacemos los cambios en este documento, en el apartado q
 |---|---|---|
 | NPM  | Udemy Course  | [Npm Udemy Course](https://github.com/npm-udemy-course) |
 | Anartz  | Mugika Ledo  | [mugan86](https://github.com/mugan86) |
-|   |   |   |
-
-Hola Hola!!!
+| Anartz  |  Prueba |   |

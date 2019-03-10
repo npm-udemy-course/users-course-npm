@@ -36,17 +36,17 @@ Cuando estemos listos con los cambios, pasen las pruebas, etc... (en este caso n
 
 Esto básicamente consiste en pedirle al responsable del repo original que tome, desde la rama que hemos usado en nuestra copia, los cambios que hemos hecho, "bajándoselos" en el repositorio original y mezclándolos con el código anteriormente existente.
 
-Para hacer un Pull Request hay un apartado específico en el repositorio, seleccionamos "Pull request" que se encuentra a la derecha de "Code":
+Para hacer un Pull Request hay un apartado específico en el repositorio, seleccionamos **"Pull request"** que se encuentra a la derecha de **"Code"** y pulsamos en **"New Pull Request"** (Botón verde a la derecha)
 
-![Fork image](https://raw.githubusercontent.com/npm-udemy-course/users-course-npm/master/images/fork-repository-04.png)
+![Fork image](https://raw.githubusercontent.com/npm-udemy-course/users-course-npm/master/images/pull-request-01.png)
 
-Pulsamos en **"New Pull Request"** (Botón verde a la derecha)
+Seleccionamos el branch de nuestro repositorio que queremos añadir en el repositorio original
 
-IMAGEN
+![Fork image](https://raw.githubusercontent.com/npm-udemy-course/users-course-npm/master/images/pull-request-02.png)
 
 Al pulsarlo se nos muestra una comparación entre nuestro código y el código del repo original al que estamos haciendo la petición:
 
-IMAGEN
+![Fork image](https://raw.githubusercontent.com/npm-udemy-course/users-course-npm/master/images/pull-request-03.png)
 
 Debemos fijarnos en que no haya conflictos o es probable, que si no están muy justificados esos cambios, nos nieguen el pull request.
 

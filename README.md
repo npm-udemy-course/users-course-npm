@@ -3,7 +3,7 @@ Para practicar con un repositorio y hacer una contribución.
 
 ## Guía para contribuir en un proyecto
 
-Para poder contribuir, tenemos que seguir los pasos de esta guía: [](./CONTRIBUTING.md)
+Para poder contribuir, tenemos que seguir los pasos de esta guía: [Como contribuir en un proyecto Open Source en pocos pasos](./CONTRIBUTING.md)
 
 Teniendo esa referencia, hacemos los cambios en este documento, en el apartado que viene a continuación añadiendo nuestra información. Una vez que lo tengamos, hacemos el pull request, sin miedo que no vamos a romper nada :)
 

@@ -1,4 +1,5 @@
 # Instrucciones a seguir para una correcta colaboración
+
 Para practicar con un repositorio y hacer una contribución.
 
 ## Guía para contribuir en un proyecto
@@ -9,9 +10,10 @@ Teniendo esa referencia, hacemos los cambios en este documento, en el apartado q
 
 ## Contribudores que tienen proyectos o simplemente quieren colaborar en proyectos
 
-|  Nombre |  Apellidos |  Github | 
-|---|---|---|
-| NPM  | Udemy Course  | [Npm Udemy Course](https://github.com/npm-udemy-course) |
-| Anartz  | Mugika Ledo  | [mugan86](https://github.com/mugan86) |
-| Compodoc | Course  |  [compodoc](https://github.com/compodoc-course) |
-| RusGunX  | Ruslán González  | [ruslanguns](https://github.com/ruslanguns) |
+| Nombre   | Apellidos              | Github                                                  |
+| -------- | ---------------------- | ------------------------------------------------------- |
+| NPM      | Udemy Course           | [Npm Udemy Course](https://github.com/npm-udemy-course) |
+| Anartz   | Mugika Ledo            | [mugan86](https://github.com/mugan86)                   |
+| Compodoc | Course                 | [compodoc](https://github.com/compodoc-course)          |
+| RusGunX  | Ruslán González        | [ruslanguns](https://github.com/ruslanguns)             |
+| Jairo    | Github Práctica Course | [Jairos2015](https://github.com/Jairos2015)             |

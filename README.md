@@ -17,3 +17,4 @@ Teniendo esa referencia, hacemos los cambios en este documento, en el apartado q
 | Compodoc | Course                 | [compodoc](https://github.com/compodoc-course)          |
 | RusGunX  | Ruslán González        | [ruslanguns](https://github.com/ruslanguns)             |
 | Jairo    | Github Práctica Course | [Jairos2015](https://github.com/Jairos2015)             |
+| Gustavo  | Gustavo Ortiz          | [gustavoortiz2016](https://github.com/gustavoortiz2016) |

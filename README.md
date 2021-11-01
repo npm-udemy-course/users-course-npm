@@ -18,3 +18,4 @@ Teniendo esa referencia, hacemos los cambios en este documento, en el apartado q
 | RusGunX  | Ruslán González        | [ruslanguns](https://github.com/ruslanguns)             |
 | Jairo    | Github Práctica Course | [Jairos2015](https://github.com/Jairos2015)             |
 | Gustavo  | Gustavo Ortiz          | [gustavoortiz2016](https://github.com/gustavoortiz2016) |
+| Andrés   | Andrés García          | [andres-unadista](https://github.com/andres-unadista) |
